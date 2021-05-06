@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Thanos
+comment0.text=\r\n\ Thanos\ Class\r\n\ \r\n\ Spawns\ Thanos\ after\ half\ of\ the\ objects\ are\ removed\r\n\ in\ the\ MyWorld\ class.\ Thanos\ also\ cannot\ be\ knocked\ over\r\n\ because\ he\ is\ too\ powerful.\r\n\ \r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=Thanos()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ knockMeOver()
+numComments=4

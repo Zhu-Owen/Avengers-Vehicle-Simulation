@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Drstrange
+comment0.text=\r\n\ Drstrange\ Class\r\n\ \r\n\ Spawns\ Dr.\ Strange,\ who\ reverses\ his\ own\ time,\ in\ order\ to\ dodge\ vehicles.\r\n\ He\ cannot\ be\ knocked\ down\ because\ he\ will\ always\ travel\ "back\ in\ time"\r\n\ to\ avoid\ the\ accident.\r\n\ \r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=Drstrange()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ knockMeOver()
+comment3.text=\r\n\ Method\ causes\ Dr.\ Strange\ to\ travel\ back\ in\ time\r\n\ when\ in\ contact\ with\ any\ vehicles\r\n
+numComments=4

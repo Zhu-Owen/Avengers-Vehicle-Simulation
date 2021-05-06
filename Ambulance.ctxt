@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ Ambulance\ Class\r\n\ \r\n\ Spawns\ an\ Ambulance\ vehicle\ that\ knocks\ and\ heals\ Captain\ America.\r\n\ I\ added\ an\ extra\ feature\ from\ the\ file\ that\ was\ given\ in\ order\ to\r\n\ knock\ over\ and\ interact\ with\ pedestrains\ that\ don't\ need\ healing.\r\n\ \r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=Ambulance()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Every\ loop\ of\ act(),\ the\ vehicle\ drives,\r\n\ checks\ to\ see\ if\ it's\ still\ onscreen,\r\n\ and\ then\ it\ checks\ for\ collision\ with\ a\ Pedestrian\r\n
+comment3.params=
+comment3.target=void\ checkHitPedestrian()
+comment3.text=\r\n\ A\ method\ to\ handle\ the\ interactions\r\n\ between\ different\ Pedestrians\r\n
+numComments=4

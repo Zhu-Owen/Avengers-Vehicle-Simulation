@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Captain
+comment0.text=\r\n\ Captain\ Class\r\n\ \r\n\ Spawns\ Captain\ America,\ who\ has\ a\ special\ interaction\ with\ Ironman.\r\n\ He\ cannot\ be\ knocked\ down\ by\ his\ laser\ because\ of\ his\ shield\ and\r\n\ when\ he\ is\ in\ contact\ with\ Ironman,\ they\ "battle"\ it\ out.\r\n\ \r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=Captain()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ caught()
+comment4.params=
+comment4.target=void\ knockMeOver()
+comment4.text=\r\n\ Method\ causes\ Captain\ America\ to\ "heal"\ -\ regain\r\n\ upright\ position\ and\ start\ moving\ again\r\n
+numComments=5

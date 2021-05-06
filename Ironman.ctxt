@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ironman
+comment0.text=\r\n\ Ironman\ Class\r\n\ \r\n\ Acts\ as\ a\ typical\ car\ that\ also\ shoots\ lasers\r\n\ every\ so\ often.\ Also\ has\ a\ special\ interaction\r\n\ with\ Captain\ America,\ specified\ in\ the\ Captain\ class.\r\n\ \r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=Ironman()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Every\ loop\ of\ act(),\ the\ vehicle\ drives,\r\n\ checks\ to\ see\ if\ it's\ still\ onscreen,\ it\ checks\ for\ collision\ with\ a\ Pedestrian\r\n\ and\ it\ also\ sees\ if\ its\ time\ to\ fire\ a\ laser\r\n
+comment3.params=
+comment3.target=void\ checkHitPedestrian()
+comment3.text=\r\n\ A\ method\ to\ handle\ the\ interactions\r\n\ between\ different\ Pedestrians\r\n
+numComments=4

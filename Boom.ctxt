@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Boom
+comment0.text=\r\n\ Boom\ class\r\n\ \r\n\ An\ animation\ to\ appear\ when\ Thanos\r\n\ runs\ into\ an\ Vehicle\ objects\ and\ destorys\ them\r\n\r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

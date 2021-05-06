@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Abstract\ Vehicle\ Class\r\n\ \r\n\ An\ abstract\ class\ that\ is\ used\ to\ create\:\ \r\n\ Ambulance,\ Bus,\ Truck,\ Ironman\ and\ his\ laser\r\n\ Methods\ such\ as\ drive()\ and\ checkEdges()\ are\r\n\ inherited\ by\ the\ child\ classes\ as\ all\ Vehicles\r\n\ will\ need\ to\ drive\ and\ deleted\ when\ they\ reach\ the\ edge\r\n\ \r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=void\ checkHitPedestrian()
+comment1.text=\r\n\ Abstract\ method\ for\ the\ interaction\ b/w\ \r\n\ vehicles\ and\ pedestrians\r\n
+comment2.params=
+comment2.target=boolean\ checkEdges()
+comment2.text=\r\n\ Detects\ if\ the\ object\ is\ off\ the\ edge\ of\ the\ screen\r\n
+comment3.params=
+comment3.target=void\ drive()
+comment3.text=\r\n\ Method\ that\ deals\ with\ movement.\ Speed\ can\ be\ set\ by\ individual\ subclasses\ in\ their\ constructors\r\n
+numComments=4

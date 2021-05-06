@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ Bus\ Class\r\n\ \r\n\ Picks\ up\ any\ pedestrian\ that\ comes\ in\ its\ way\r\n\ \r\n\ @Owen\ Zhu\r\n
+comment1.params=
+comment1.target=Bus()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Every\ loop\ of\ act(),\ the\ vehicle\ drives,\r\n\ checks\ to\ see\ if\ it's\ still\ onscreen,\r\n\ and\ then\ it\ checks\ for\ collision\ with\ a\ Pedestrian\r\n
+comment3.params=
+comment3.target=void\ checkHitPedestrian()
+comment3.text=\r\n\ A\ method\ to\ handle\ the\ interactions\r\n\ between\ different\ Pedestrians\r\n
+numComments=4
